@@ -14,7 +14,8 @@ Chikitsak has been made to scale up the existing telemedicine for doctors networ
           <p align="center"> <strong>About Proprietary Code & Repository | GitHub</strong> </p> </a> 
           <p> </p>
 
-## High Level Design 📌 of Chikitsak 🔐
+## Getting Started
+### High Level Design of Chikitsak 📌
 ***
-## `For Deployment Purpose`
+### `For Deployment Purpose`
 ![Chikitsak_HighLevelDesign](Chikitsak.png)
