@@ -23,4 +23,4 @@ Chikitsak has been made to scale up the existing telemedicine for doctors networ
 ### `For Deployment Purpose`
 ![Chikitsak_HighLevelDesign](Chikitsak.png)
  
-### Developed using Flutter, React and Serverless Cloud Architecture, runs with 100% uptime on cross platform Android | iOS | Web.
+### Developed using Flutter, React and Serverless Cloud Architecture, runs with 99.999% uptime on cross platform Android | iOS | Web.
