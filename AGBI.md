@@ -12,10 +12,15 @@
 Chikitsak has been made to scale up the existing telemedicine for doctors network and patient's welfare monitoring with key focus on rural/remote areas by using AI based Chatbot that allows two way communication 24/7. All data is held in a cloud serverless architecture, Integrating cloud tech with Patient MIS and Aadhaar authentication, in order to make it easy for patients belonging to low socio economic and educational backgrounds for safe keeping of medical records and also for accessing the databases by emergency medical technicians by merely using biometric / thumb impressions.
 
 ## Getting Started
-### UI of Chikitsak 📌
+### UI of Chikitsak 
 ***
 ### `For Reference Purpose`
 ![](bot.jpg)
 ![](bot2.jpg)
+
+## High Level Design of Chikitsak 📌
+***
+### `For Deployment Purpose`
+![Chikitsak_HighLevelDesign](Chikitsak.png)
  
-## Developed using Flutter and runs on cross platform Android | iOS | Web.
+## Developed using Flutter and React, runs on cross platform Android | iOS | Web.
